@@ -1,0 +1,41 @@
+{
+    "auth": {
+      "header": {
+        "login": "Anmeldung",
+        "register": "Erstelle einen kostenlosen Account",
+        "resetPassword": "Passwort zurücksetzen"
+      },
+      "field": {
+        "email": "Deine E-Mail",
+        "password": "Ihr Passwort",
+        "newPassword": "Neues Kennwort",
+        "confirmNewPassword": "Bestätige neues Passwort"
+      },
+      "extras": {
+        "or": "oder",
+        "sso": {
+          "googleSso": "Anmeldung mit Google"
+        },
+        "rememberMe": "Erinnere dich an mich",
+        "forogtPassword": "Passwort vergessen?",
+        "text": {
+          "login": "Anmeldung",
+          "register": "Registrieren",
+          "signUp": "Melden Sie sich an",
+          "exampleEmail": "name@company.com",
+          "passwordHelpText": " Bitte verwenden Sie mindestens 8 Zeichen, einschließlich Zahlen, Groß- und Kleinbuchstaben, Sonderzeichen",
+          "termsAndConditionHelpText": "Durch Klicken auf „Weiter“ erstellen Sie ein Konto und stimmen unserem zu",
+          "termsAndCondition": "Geschäftsbedingungen",
+          "and": "Und",
+          "privacyPolicy": "Datenschutzrichtlinie",
+          "alreadyHaveAnAccount": "Sie haben bereits ein Konto?",
+          "restorePassword": "Passwort wiederherstellen",
+          "rememberedPassword": "Ich erinnere mich an mein Passwort",
+          "changePassword": "Kennwort ändern"
+        },
+        "quickLinks": {
+          "signUpLink": "Sie haben noch kein Konto?"
+        }
+      }
+    }
+  }

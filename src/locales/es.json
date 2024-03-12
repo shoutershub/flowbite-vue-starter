@@ -1,0 +1,41 @@
+{
+    "auth": {
+      "header": {
+        "login": "Acceso",
+        "register": "Crea una cuenta nueva",
+        "resetPassword": "Restablecer la contraseña"
+      },
+      "field": {
+        "email": "Tu correo electrónico",
+        "password": "Tu contraseña",
+        "newPassword": "Nueva contraseña",
+        "confirmNewPassword": "Confirmar nueva contraseña"
+      },
+      "extras": {
+        "or": "o",
+        "sso": {
+          "googleSso": "Inicia sesión con Google"
+        },
+        "rememberMe": "Acuérdate de mí",
+        "forogtPassword": "¿Has olvidado tu contraseña?",
+        "text": {
+          "login": "Acceso",
+          "register": "Registro",
+          "signUp": "Inscribirse",
+          "exampleEmail": "nombre@empresa.com",
+          "passwordHelpText": " Utilice al menos 8 caracteres, incluidos números, letras mayúsculas y minúsculas y caracteres especiales.",
+          "termsAndConditionHelpText": "Al hacer clic en \"Continuar\", crea una cuenta y acepta nuestras",
+          "termsAndCondition": "Términos y condiciones",
+          "and": "y",
+          "privacyPolicy": "política de privacidad",
+          "alreadyHaveAnAccount": "¿Ya tienes una cuenta?",
+          "restorePassword": "Restaurar contraseña",
+          "rememberedPassword": "Recuerdo mi contraseña",
+          "changePassword": "Cambiar la contraseña"
+        },
+        "quickLinks": {
+          "signUpLink": "¿Aún no tienes una cuenta?"
+        }
+      }
+    }
+  }

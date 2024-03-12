@@ -1,0 +1,41 @@
+{
+    "auth": {
+      "header": {
+        "login": "تسجيل الدخول",
+        "register": "إنشاء حساب مجاني",
+        "resetPassword": "إعادة تعيين كلمة المرور"
+      },
+      "field": {
+        "email": "بريدك الالكتروني",
+        "password": "كلمة السر خاصتك",
+        "newPassword": "كلمة المرور الجديدة",
+        "confirmNewPassword": "تأكيد كلمة المرور الجديدة"
+      },
+      "extras": {
+        "or": "أو",
+        "sso": {
+          "googleSso": "الدخول مع جوجل"
+        },
+        "rememberMe": "تذكرنى",
+        "forogtPassword": "هل نسيت كلمة السر؟",
+        "text": {
+          "login": "تسجيل الدخول",
+          "register": "يسجل",
+          "signUp": "اشتراك",
+          "exampleEmail": "name@company.com",
+          "passwordHelpText": " يرجى استخدام 8 أحرف على الأقل، بما في ذلك الأرقام والأحرف الكبيرة والصغيرة والأحرف الخاصة",
+          "termsAndConditionHelpText": "بالنقر على \"متابعة\"، فإنك تقوم بإنشاء حساب وتوافق على موقعنا",
+          "termsAndCondition": "الأحكام والشروط",
+          "and": "و",
+          "privacyPolicy": "سياسة الخصوصية",
+          "alreadyHaveAnAccount": "هل لديك حساب؟",
+          "restorePassword": "استعادة كلمة المرور",
+          "rememberedPassword": "أتذكر كلمة المرور الخاصة بي",
+          "changePassword": "تغيير كلمة المرور"
+        },
+        "quickLinks": {
+          "signUpLink": "لا تملك حسابا حتى الآن؟"
+        }
+      }
+    }
+  }
